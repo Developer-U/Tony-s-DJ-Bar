@@ -1,5 +1,5 @@
 # Tony-s-DJ-Bar
-Разработка интернет-магазина для клуба Tony`s DJ Bar с доставкой блюд и напитков по городу Сочи&nbsp;&nbsp;<a href="https://tonysdjbar.ru/" target="_blank">Посмотреть можно здесь</a>
+Разработка интернет-магазина для клуба Tony`s DJ Bar с доставкой блюд и напитков по городу Сочи&nbsp;&nbsp;<a href="https://tonysdjbar.ru/" target="blank">Посмотреть можно здесь</a>
 <hr>
 * Индивидуальный дизайн сайта<br>
 * Адаптивная кросс-браузерная вёрстка на Flexbox, Grid<br>
@@ -9,4 +9,4 @@
 * SEO - настройки сайта<br>
 <hr>
 
-[![Tonys.jpg](https://tonysdjbar.ru)](https://postimg.cc/KK9vcQ3P)
+[![Tonys.jpg](https://i.postimg.cc/NMty4zgz/Tonys.jpg)](https://postimg.cc/KK9vcQ3P)
