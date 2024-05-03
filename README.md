@@ -9,4 +9,4 @@
 * SEO - настройки сайта<br>
 <hr>
 
-[![myshmyla.jpg](https://i.postimg.cc/mZHkWffZ/myshmyla.jpg)](https://postimg.cc/NLQBRnjZ)
+[![Tonys.jpg](https://i.postimg.cc/NMty4zgz/Tonys.jpg)](https://postimg.cc/KK9vcQ3P)
