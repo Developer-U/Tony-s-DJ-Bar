@@ -9,4 +9,4 @@
 * SEO - настройки сайта<br>
 <hr>
 
-[![Tonys.jpg](https://i.postimg.cc/NMty4zgz/Tonys.jpg)](https://postimg.cc/KK9vcQ3P)
+[![Tonys.jpg](https://tonysdjbar.ru)](https://postimg.cc/KK9vcQ3P)
